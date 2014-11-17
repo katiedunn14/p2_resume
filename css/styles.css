@@ -39,8 +39,7 @@ p {
 	padding-left: 25px; 
 }
 
-h3 a {
-	border: 5px dashed #4B6987;	
+a[src="me"] {
 	margin-left: 15px;
 	margin-top:40px;
 } 
@@ -76,29 +75,17 @@ ul li {
 }
 
 
-#me { 
-	padding: 20px 0px 20px 20px;
-	
-}
 
 img {
 		width: 550px;;
-		border-bottom: 10px dashed #8A181D;
-		border-right: 10px dashed #8A181D;
+		border-top: 10px dashed #8A181D;
+		border-left: 10px dashed #8A181D;
+		margin-left: 70px;
 }
 
 
 div.container {
 	background:#A8D3F3;
-}
-
-#info {
-padding: 10px 10px 10px 10px;
-}
-
-#special img {
-	padding-left:63px;
-	size: 500px;
 }
 
 
