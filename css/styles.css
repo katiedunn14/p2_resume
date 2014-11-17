@@ -21,32 +21,12 @@ header {
 }
 
 
-h2 {
+h2, h3, h4 {
 	color: #8A2626;
 	font-family: 'Bitter', serif;
 	width: 200px;
 	margin: 0px 0px 0px 90px;
 	padding-top: 10px;
-	font-position: center;
-}
-
-
-h3 {
-
-	color: #8A2626;
-	font-family: 'Bitter', serif;
-	width: 200px;
-	padding: 10px;
-	margin: 0px 0px 0px 80px;
-	font-position: center;
-}
-
-h4 {
-	color: #8A2626;
-	font-family: 'Bitter', serif;
-	width: 200px;
-	padding: 10px;
-	margin: 0px 0px 0px 50px;
 	font-position: center;
 }
 
