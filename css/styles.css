@@ -97,22 +97,17 @@ p footer {
 	color: #8A2626;
 }
 
-.visit {
-	padding-top: 10px;
-}
-.contact {
-	margin-left: 40px;
-}
-
-#dashbox {
-	border: 5px dashed #4B6987;	
-	margin-left: 15px;
-	margin-top:40px;
-}
 
 p a {
 	border-top: 1px dashed #4B6987;	
 	border-bottom: 1px dashed #4B6987;
 	border-right: 1px dashed #4B6987;	
 	border-left: 1px dashed #4B6987;
+}
+
+#name {
+	color: #8A2626;
+	font-family:'Rock Salt', serif;
+	font-size: 40px;
+	margin: 0px 0px 0px 0px;
 }
