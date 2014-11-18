@@ -73,10 +73,9 @@ ul li {
 
 
 img {
-		width: 550px;;
+		width: 100%;
 		border-top: 10px dashed #8A181D;
 		border-left: 10px dashed #8A181D;
-		margin-left: 70px;
 }
 
 
@@ -111,3 +110,4 @@ p a {
 	font-size: 40px;
 	margin: 0px 0px 0px 0px;
 }
+
