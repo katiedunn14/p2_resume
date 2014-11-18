@@ -75,7 +75,7 @@ ul li {
 img {
 		width: 100%;
 		border-top: 10px dashed #8A181D;
-		border-left: 10px dashed #8A181D;
+		border-right: 10px dashed #8A181D;
 }
 
 
@@ -108,6 +108,6 @@ p a {
 	color: #8A2626;
 	font-family:'Rock Salt', serif;
 	font-size: 40px;
-	margin: 0px 0px 0px 0px;
-}
+	margin: 10px 0px 10px 10px;
+	border-bottom: 10px dashed #234A69;
 
